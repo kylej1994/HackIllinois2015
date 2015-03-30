@@ -4,3 +4,5 @@ Our Project was called RoomieConnect. Essentially we wanted to centralize the ro
 
 It was developed in javaScript, and won 2nd place for best use of Dwolla API at HackIllinois.
 Developed by Kyle Jablon, Sam Baugh, Daryl Halima, and Abhishek Somanath.
+
+Challengepost Submission: http://challengepost.com/software/roomie-connect
